@@ -21,3 +21,17 @@ Branch Protection for the main repo has been set up.
 We also looked at the OpenCollective API and in theory most of what we need is supported.
 
 The lack of a delete endpoint for projects is a bit concerning tho.
+
+# 2026-02-12
+
+# Progress report Werner - 20:20 - 23:45
+
+Onboareded Frisi to github and the workflows.
+
+Wrote the concept, definition of done and definition of ready.
+
+Added github actions workflow for linting.
+
+Also added biome as a formatter. Why biome? Its fast and less annoying than prettier.
+
+Updated readme a bit.
